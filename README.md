@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Unifood Hub](https://unifoodhub.in/)
-
-- 🌱 I’m currently learning **react , AI ML**
+ - 🌱 I’m currently learning **react , AI ML**
 
 - 📝 I regularly write articles on [https://ayusingh54.github.io/bccoder/#](https://ayusingh54.github.io/bccoder/#)
 
