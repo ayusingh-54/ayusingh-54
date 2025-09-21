@@ -22,7 +22,7 @@
 - 🏢 **Software Engineer** at [HapScale Pvt Ltd](https://hapscale.com) - Building scalable solutions
 - 💼 **Co-founder** of **Uni Food Hub** - Revolutionizing campus food delivery
 - 🌟 **Full-Stack Developer** specializing in **MERN Stack** and modern web technologies
-- 🤖 **RPA Developer** with expertise in **Brity RPA Designer & Orchestrator**
+
 - 🧠 **AI/ML Enthusiast** working on real-world applications and models
 - 📝 **Technical Writer** sharing knowledge at [BCCoder Blog](https://ayusingh54.github.io/bccoder/#)
 - 🏆 **Competitive Programmer** active on multiple platforms
