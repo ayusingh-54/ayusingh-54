@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Singh;AI+%26+ML+Engineer;Deep+Learning+%26+NLP+Enthusiast;LangChain+%26+FastAPI+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
-
+ 
 <h3 align="center">🤖 AI/ML Engineer | Deep Learning & NLP Enthusiast | Software Engineer @ HapScale</h3>
 
 <div align="center">
