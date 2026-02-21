@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-winning.vercel.app/?username=ayusingh-54&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </div>
 
