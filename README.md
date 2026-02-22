@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=algolia&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"/>
 
 </div>
 
