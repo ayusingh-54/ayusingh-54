@@ -6,81 +6,92 @@
 
 <h3>🚀 AI Engineer | LLM & Agentic AI Architect | Software Developer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=ayusingh-54&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ayusingh-54?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/ayusingh-54?style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayusingh-54&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ayusingh-54?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/ayusingh-54?style=for-the-badge&color=yellow"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🧠 AI Engineer specializing in **Agentic AI Systems**
 - 🤖 Built **100+ AI Agents** (LangChain, LangGraph, AutoGen)
 - 🏢 AI Engineer Intern @ **U2xAI (US - Remote)**
 - 💻 Software Developer @ **HapScale Pvt Ltd**
-- 🏆 3× Hackathon Winner
+- 🏆 **3× Hackathon Winner**
 - 🚀 Strong in **RAG, ReAct, MCP, FastAPI Deployment, MLOps**
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🧠 AI Engineer Intern — U2xAI (US - Remote)
+### 🧠 AI Engineer Intern — U2xAI *(US - Remote)*
 
-- Built AI-driven Supply Chain Intelligence Platform  
-- Designed BigQuery-based analytics pipelines  
-- Developed MCP-based tool interfaces for LLM reasoning  
-- Enabled structured AI explainability & decision systems  
+- Built AI-driven **Supply Chain Intelligence Platform**
+- Designed **BigQuery-based analytics pipelines**
+- Developed **MCP-based tool interfaces** for LLM reasoning
+- Enabled structured AI explainability & decision systems
 
 ---
 
-## 💻 Software Developer — HapScale Pvt Ltd
+### 💻 Software Developer — HapScale Pvt Ltd
 
 - Improved API performance by **25%**
-- Automated security workflows (99.9% efficiency boost)
-- Built Happiness Analytics Tool (tested on 3000+ users)
+- Automated security workflows (**99.9% efficiency boost**)
+- Built **Happiness Analytics Tool** (tested on 3000+ users)
 - Increased user engagement by **30%**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔥 100 Days – 100 AI Agents
+### 🔥 [100 Days – 100 AI Agents](https://github.com/ayusingh-54)
+
+> *Building 100 production-ready AI agents in 100 days*
 
 - Built 100+ production-ready AI agents
 - Developed RAG + Multi-agent systems
 - Integrated Instagram, Google Maps, Apify APIs
-- Used Pinecone, FAISS, ChromaDB
-- Built interactive Streamlit dashboards
+- Used **Pinecone, FAISS, ChromaDB**
+- Built interactive **Streamlit dashboards**
 
 ---
 
-## ⚡ CodeForge-AI
+### ⚡ [CodeForge-AI](https://github.com/ayusingh-54)
 
-- Autonomous coding agent using ReAct
-- Reduced dev task time: 30 min → 30 sec
+> *Autonomous coding agent using ReAct*
+
+- Reduced dev task time: **30 min → 30 sec**
 - Context-aware memory + tool orchestration
 - Secure guardrails for safe execution
 
 ---
 
-# 🏆 GitHub Trophy Board
+## 🏆 GitHub Trophy Board
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats (Commits, Stars, PRs)
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayusingh-54&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusingh-54&layout=compact&theme=algolia&hide_border=true" height="180"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusingh-54&theme=algolia&hide_border=true" height="180"/>
 
@@ -88,7 +99,7 @@
 
 ---
 
-# 📈 Contribution Activity Graph
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
@@ -98,7 +109,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -108,34 +119,42 @@
 
 ---
 
-# 🧠 AI & ML Expertise
+## 🧠 AI & ML Expertise
 
-- Machine Learning & Deep Learning
-- NLP & Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- ReAct Agents & Multi-Agent Systems
-- LangChain, LangGraph, AutoGen, CrewAI
-- MCP Tool Integration
-- FastAPI Deployment
-- BigQuery & AI Pipelines
-- MLOps & Model Optimization
-
----
-
-# 🏆 Achievements
-
-- 🥇 Rise To Top Winner – District Level
-- 🥈 SIH Internal Winner (Top 2/160+ teams)
-- 🏅 Techfest IIT Bombay Finalist (Top 0.5%)
+| Domain | Tools & Frameworks |
+|---|---|
+| **LLMs & NLP** | OpenAI, Gemini, HuggingFace, LangChain |
+| **Agentic AI** | LangGraph, AutoGen, CrewAI, ReAct |
+| **RAG Systems** | Pinecone, FAISS, ChromaDB, Weaviate |
+| **ML/DL** | PyTorch, TensorFlow, Scikit-learn |
+| **Deployment** | FastAPI, Docker, Kubernetes, AWS |
+| **Data & Pipelines** | BigQuery, MLOps, Model Optimization |
 
 ---
 
-# 📫 Connect With Me
+## 🏆 Achievements
 
-- 💼 LinkedIn  
-- 🐙 GitHub  
-- 📧 ayusingh693@gmail.com  
+- 🥇 **Rise To Top Winner** – District Level
+- 🥈 **SIH Internal Winner** – Top 2 / 160+ teams
+- 🏅 **Techfest IIT Bombay Finalist** – Top 0.5%
+- 🤖 Built **100+ AI Agents** in 100 Days
 
 ---
 
-⭐ If you’re into AI, LLMs, Agentic Systems & Automation — Let’s Connect!
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayusingh-54)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusingh693@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you're into AI, LLMs, Agentic Systems & Automation — Let's Connect!**
+
+</div>
