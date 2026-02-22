@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
