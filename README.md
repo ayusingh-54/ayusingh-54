@@ -21,7 +21,7 @@
 - 🧠 AI Engineer specializing in **Agentic AI Systems**
 - 🤖 Built **100+ AI Agents** (LangChain, LangGraph, AutoGen)
 - 🏢 AI Engineer Intern @ **U2xAI (US - Remote)**
-- 💻 Software Developer @ **HapScale Pvt Ltd**
+- 🚢 AI Consultant @ **Hilo Maritime Risk Management (London - Remote)**
 - 🏆 **3× Hackathon Winner**
 - 🚀 Strong in **RAG, ReAct, MCP, FastAPI Deployment, MLOps**
 
@@ -38,7 +38,16 @@
 
 ---
 
-### 💻 Software Developer — HapScale Pvt Ltd
+### 🚢 AI Consultant — Hilo Maritime Risk Management *(London - Remote)*
+
+- Building **ML models** on marine-industry datasets for predictive risk assessment & anomaly detection
+- Engineering **data-processing & feature-engineering pipelines** for heterogeneous marine data sources
+- Improving **LLM prompts and agentic workflows** for risk-analysis accuracy and automation
+- Translating maritime-risk business requirements into scalable technical solutions
+
+---
+
+### 💻 SDE Intern — HapScale Pvt Ltd
 
 - Improved API performance by **25%**
 - Automated security workflows (**99.9% efficiency boost**)
@@ -75,7 +84,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayusingh-54&theme=onedark&no-frame=true&row=1&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
