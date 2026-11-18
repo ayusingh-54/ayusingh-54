@@ -58,7 +58,7 @@ Promoted to full-time after a part-time consulting engagement.
 - Building a **Predictive Risk Assessment System** for proactive risk identification and mitigation
 - Optimising existing prompts for LLM accuracy, with requirement traceability from request through development and testing
 
-`LLMs` `Prompt engineering` `Decision support` `Risk modelling`
+`LLMs` `LLM-based applications` `Prompt engineering` `LLM evaluation` `Cost optimisation` `Decision support` `Risk modelling`
 
 ### Freelance &nbsp;<sub>United States & worldwide · Remote</sub>
 
