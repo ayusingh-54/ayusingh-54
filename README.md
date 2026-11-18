@@ -1,6 +1,7 @@
 <!--
   Profile README for github.com/ayusingh-54
-  Content mirrors data/index.ts in the minimal-portfolio repo. When a role or project changes there, change it here too.
+  Dates, titles and skills follow the resume (Ayush_Singh_Resume, Nov 2026). Extra roles and projects come from data/index.ts in the
+  minimal-portfolio repo. When either changes, change this file too, so GitHub, resume and portfolio never disagree.
   Palette matches the portfolio: navy #070a12, amber #ffb547 (dark) / #a86200 (light).
 -->
 
@@ -26,7 +27,7 @@ and **pipelines** that run on their own. I also write about how they work.
 
 ## Now
 
-- **AI Engineer at [HiLo MRM](https://hilomrm.com/)**: full-time, remote (Milton Keynes, UK). I build decision-support and predictive risk-assessment systems on LLMs, and shipped a hybrid classification system to production on Azure.
+- **AI Engineer at [HiLo Maritime Risk Management](https://hilomrm.com/)** (London, UK · remote). I build ML models for predictive risk assessment and anomaly detection on marine data, LLM-driven decision support, and shipped a hybrid classification system to production on Azure.
 - **Freelance Full-Stack AI Engineer & Tech Writer** for US startups and tech companies, including **Crework** and **9otify Technologies**.
 - **Previously AI Engineer at U2xAI** (New Jersey, US · remote): agentic AI for supply chains, including an Oracle MCP server for Claude Code.
 - **Open to** AI engineering roles and project work. Email is the fastest way to reach me.
@@ -37,28 +38,29 @@ and **pipelines** that run on their own. I also write about how they work.
 |---|---|---|
 | ![agents](https://img.shields.io/badge/agentic_systems-8b7bff?style=flat-square) | Multi-step agents that call tools, keep memory and stay inside guardrails | LangGraph · CrewAI · AutoGen · MCP |
 | ![rag](https://img.shields.io/badge/retrieval_&_RAG-3dd6c6?style=flat-square) | Document pipelines, vector search and answers grounded in your own data | Pinecone · FAISS · ChromaDB · pgvector |
-| ![automation](https://img.shields.io/badge/automation-ffb547?style=flat-square) | Workflows that move data and content between tools without anyone pushing buttons | n8n · Python · REST APIs |
+| ![automation](https://img.shields.io/badge/automation-ffb547?style=flat-square) | Workflows that move data and content between tools without anyone pushing buttons | n8n · Zapier · Python · REST APIs |
 | ![web](https://img.shields.io/badge/full--stack-4ea8ff?style=flat-square) | The interface, API and database around the model, shipped to production | Next.js · FastAPI · PostgreSQL |
-| ![ml](https://img.shields.io/badge/ML_&_data-ff6f91?style=flat-square) | Models, pipelines and MLOps from notebook to deployment | PyTorch · Scikit-learn · BigQuery |
+| ![ml](https://img.shields.io/badge/ML_&_data-ff6f91?style=flat-square) | Predictive models, anomaly detection and feature pipelines, from notebook to production | PyTorch · Scikit-learn · BigQuery · Azure |
 | ![writing](https://img.shields.io/badge/writing-eadfc8?style=flat-square) | Articles and platform content explaining how AI systems work | Substack · long-form · newsletters |
 
 ---
 
 ## Experience
 
-### HiLo MRM &nbsp;<sub>Milton Keynes, England · Remote</sub>
+### HiLo Maritime Risk Management &nbsp;<sub>London, United Kingdom · Remote</sub>
 
-**AI Engineer** · Full-time · `Jun 2026 – Present`<br/>
-**AI Consultant** · Part-time · `Mar 2026 – May 2026`
+**AI Engineer** · `Feb 2026 – Present`
 
-Promoted to full-time after a part-time consulting engagement.
+ML and LLM systems for maritime risk, built on vessel, incident and operational data.
 
 - Built a complete **hybrid classification system** end to end and deployed it to **production on Azure**
+- Building **machine learning models** on marine-industry datasets for **predictive risk assessment** and **anomaly detection** across maritime operations
+- Engineering **data-processing and feature-engineering pipelines** that clean, transform and unify heterogeneous marine data sources for downstream ML and LLM workflows
 - Building a **Decision Support System** for AI-driven business intelligence and recommendations
-- Building a **Predictive Risk Assessment System** for proactive risk identification and mitigation
-- Optimising existing prompts for LLM accuracy, with requirement traceability from request through development and testing
+- Improving **LLM prompts and agentic workflows** for accuracy, consistency and automation across risk-analysis tasks
+- Maintaining requirement traceability across the SDLC, and working with stakeholders to turn maritime-risk business requirements into scalable technical solutions
 
-`LLMs` `LLM-based applications` `Prompt engineering` `LLM evaluation` `Cost optimisation` `Hybrid classification` `Azure` `Decision support` `Risk modelling`
+`Machine learning` `Anomaly detection` `Feature engineering` `Hybrid classification` `Azure` `LLM-based applications` `Agentic workflows` `Prompt engineering` `LLM evaluation` `Cost optimisation` `Decision support` `Risk modelling`
 
 ### Freelance &nbsp;<sub>United States & worldwide · Remote</sub>
 
@@ -87,7 +89,7 @@ Full-stack engineer on the in-house ERP that runs HR, finance, projects and hiri
 
 ### U2xAI &nbsp;<sub>New Jersey, United States · Remote</sub>
 
-**AI Engineer** · Internship · `Jan 2026 – Jun 2026`
+**AI Engineer Intern** · `Dec 2025 – Jun 2026`
 
 Agentic AI for consumer-goods supply chains: LangChain and LangGraph agents over retail POS, distributor and inventory data.
 
@@ -105,7 +107,7 @@ Agentic AI for consumer-goods supply chains: LangChain and LangGraph agents over
 |---|---|---|---|
 | AI Engineer (intern) | Deckoviz Space Labs, UK | Mar – Apr 2026 | Built Vizzy Chat: GPT-4o and DALL·E 3 orchestrated by a LangGraph state machine behind a Streamlit UI |
 | Full Stack AI Engineer | Tycho Technologies, Noida | Aug – Dec 2025 | End-to-end and agentic RAG pipelines for test monitoring, anomaly detection and QA automation |
-| Software Developer (intern) | HapScale, Bangalore | Aug 2024 – Jan 2025 | Secure API integrations (+25% performance), automated password reset (99.9% fewer manual interventions), +30% landing-page engagement, HapScale Tool tested with 3,000+ people |
+| SDE Intern | HapScale, Bangalore | Dec 2024 – Jul 2025 | Secure API integrations (+25% performance), automated password reset (99.9% fewer manual interventions), +30% landing-page engagement, HapScale Tool tested with 3,000+ people |
 
 </details>
 
@@ -164,9 +166,9 @@ MLOps series: [CI](https://github.com/ayusingh-54/MLOPS-CI), [DVC](https://githu
 |---|---|
 | **LLMs & agents** | LangChain · LangGraph · CrewAI · AutoGen · MCP · ReAct · OpenAI & Anthropic APIs · Claude Code · Prompt engineering |
 | **Retrieval & data** | RAG · Pinecone · FAISS · ChromaDB · pgvector · PostgreSQL · Redis · MongoDB · BigQuery · Oracle |
-| **Machine learning** | PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Fine-tuning · NLP |
-| **Backend & automation** | Python · FastAPI · AdonisJS · Express · n8n · WebSocket · Async IO |
-| **Frontend** | React · Next.js · TypeScript · TailwindCSS · Streamlit · Flutter |
+| **Machine learning** | Machine learning · Deep learning · NLP · Anomaly detection · Feature engineering · Fine-tuning · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy |
+| **Backend & automation** | Python · FastAPI · AdonisJS · Express · n8n · Zapier · Socket.IO · Async IO |
+| **Frontend** | React · Next.js · TypeScript · TailwindCSS · Formik · Streamlit · Flutter |
 | **Cloud & MLOps** | Docker · Kubernetes · Azure · AWS · CI/CD · MLflow · DVC · Git |
 
 ---
