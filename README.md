@@ -26,7 +26,7 @@ and **pipelines** that run on their own. I also write about how they work.
 
 ## Now
 
-- **AI Engineer at [HiLo MRM](https://hilomrm.com/)**: full-time, remote (Milton Keynes, UK). I build decision-support and predictive risk-assessment systems on LLMs.
+- **AI Engineer at [HiLo MRM](https://hilomrm.com/)**: full-time, remote (Milton Keynes, UK). I build decision-support and predictive risk-assessment systems on LLMs, and shipped a hybrid classification system to production on Azure.
 - **Freelance Full-Stack AI Engineer & Tech Writer** for US startups and tech companies, including **Crework** and **9otify Technologies**.
 - **Previously AI Engineer at U2xAI** (New Jersey, US · remote): agentic AI for supply chains, including an Oracle MCP server for Claude Code.
 - **Open to** AI engineering roles and project work. Email is the fastest way to reach me.
@@ -53,11 +53,12 @@ and **pipelines** that run on their own. I also write about how they work.
 
 Promoted to full-time after a part-time consulting engagement.
 
+- Built a complete **hybrid classification system** end to end and deployed it to **production on Azure**
 - Building a **Decision Support System** for AI-driven business intelligence and recommendations
 - Building a **Predictive Risk Assessment System** for proactive risk identification and mitigation
 - Optimising existing prompts for LLM accuracy, with requirement traceability from request through development and testing
 
-`LLMs` `LLM-based applications` `Prompt engineering` `LLM evaluation` `Cost optimisation` `Decision support` `Risk modelling`
+`LLMs` `LLM-based applications` `Prompt engineering` `LLM evaluation` `Cost optimisation` `Hybrid classification` `Azure` `Decision support` `Risk modelling`
 
 ### Freelance &nbsp;<sub>United States & worldwide · Remote</sub>
 
@@ -156,7 +157,7 @@ MLOps series: [CI](https://github.com/ayusingh-54/MLOPS-CI), [DVC](https://githu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,sklearn,fastapi,react,nextjs,tailwind,flutter,nodejs,express&perline=12" alt="Python, TypeScript, PyTorch, TensorFlow, Scikit-learn, FastAPI, React, Next.js, Tailwind, Flutter, Node.js, Express" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,kubernetes,aws,gcp,githubactions,git,vercel&perline=12" alt="PostgreSQL, Redis, MongoDB, Docker, Kubernetes, AWS, Google Cloud, GitHub Actions, Git, Vercel" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,kubernetes,azure,aws,gcp,githubactions,git,vercel&perline=12" alt="PostgreSQL, Redis, MongoDB, Docker, Kubernetes, Azure, AWS, Google Cloud, GitHub Actions, Git, Vercel" />
 </p>
 
 | | |
@@ -166,7 +167,7 @@ MLOps series: [CI](https://github.com/ayusingh-54/MLOPS-CI), [DVC](https://githu
 | **Machine learning** | PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Fine-tuning · NLP |
 | **Backend & automation** | Python · FastAPI · AdonisJS · Express · n8n · WebSocket · Async IO |
 | **Frontend** | React · Next.js · TypeScript · TailwindCSS · Streamlit · Flutter |
-| **Cloud & MLOps** | Docker · Kubernetes · AWS · CI/CD · MLflow · DVC · Git |
+| **Cloud & MLOps** | Docker · Kubernetes · Azure · AWS · CI/CD · MLflow · DVC · Git |
 
 ---
 
