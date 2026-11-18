@@ -9,8 +9,8 @@
 # Ayush Singh
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=2600&pause=900&color=FFB547&center=true&vCenter=true&width=640&height=36&lines=AI+Engineer+%40+HiLo+MRM;Agents+%C2%B7+RAG+%C2%B7+Automation+pipelines;LangGraph+%C2%B7+MCP+%C2%B7+FastAPI+%C2%B7+Next.js;Grounded+in+evidence%2C+reviewed+by+humans;100%2B+agents+shipped+in+100+days" />
-  <img alt="AI Engineer at HiLo MRM. Agents, RAG and automation pipelines." src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=2600&pause=900&color=A86200&center=true&vCenter=true&width=640&height=36&lines=AI+Engineer+%40+HiLo+MRM;Agents+%C2%B7+RAG+%C2%B7+Automation+pipelines;LangGraph+%C2%B7+MCP+%C2%B7+FastAPI+%C2%B7+Next.js;Grounded+in+evidence%2C+reviewed+by+humans;100%2B+agents+shipped+in+100+days" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=2600&pause=900&color=FFB547&center=true&vCenter=true&width=640&height=36&lines=AI+Engineer+%40+HiLo+MRM;Freelance+Full-Stack+AI+Engineer+%26+Tech+Writer;Previously+AI+Engineer+%40+U2xAI;Agents+%C2%B7+RAG+%C2%B7+Automation+pipelines;100%2B+agents+shipped+in+100+days" />
+  <img alt="AI Engineer at HiLo MRM. Freelance full-stack AI engineer and tech writer. Previously AI Engineer at U2xAI." src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=2600&pause=900&color=A86200&center=true&vCenter=true&width=640&height=36&lines=AI+Engineer+%40+HiLo+MRM;Freelance+Full-Stack+AI+Engineer+%26+Tech+Writer;Previously+AI+Engineer+%40+U2xAI;Agents+%C2%B7+RAG+%C2%B7+Automation+pipelines;100%2B+agents+shipped+in+100+days" />
 </picture>
 
 I turn language models into working software: **agents** that call tools, **retrieval** grounded in real documents,<br/>
@@ -28,8 +28,8 @@ and **pipelines** that run on their own. I also write about how they work.
 ## Now
 
 - **AI Engineer at [HiLo MRM](https://hilomrm.com/)**: full-time, remote (Milton Keynes, UK). I build decision-support and predictive risk-assessment systems on LLMs.
-- **Freelance AI automation engineer and writer** for US startups and tech companies, including **Crework** and **9otify Technologies**.
-- **B.Tech in Information Technology** at Madan Mohan Malaviya University of Technology (2023 to present).
+- **Freelance Full-Stack AI Engineer & Tech Writer** for US startups and tech companies, including **Crework** and **9otify Technologies**.
+- **Previously AI Engineer at U2xAI** (New Jersey, US · remote): agentic AI for supply chains, including an Oracle MCP server for Claude Code.
 - **Open to** AI engineering roles and project work. Email is the fastest way to reach me.
 
 ## What I build
@@ -62,7 +62,7 @@ Promoted to full-time after a part-time consulting engagement.
 
 ### Freelance &nbsp;<sub>United States & worldwide · Remote</sub>
 
-**AI Automation Engineer & Content Creator** · `2026 – Present`
+**Full-Stack AI Engineer & Tech Writer** · `2026 – Present`
 
 - **Crework** (US startup): building automation pipelines and writing articles for the company's Substack
 - **9otify Technologies**: built their agentic system and corporate website, then optimised the site so search engines and AI agents can find and use their services
