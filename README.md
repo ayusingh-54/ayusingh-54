@@ -132,7 +132,6 @@ A pattern across my 2026 work: agents that **show their evidence** and **stop fo
 - **[AI Lead Research Agent](https://github.com/ayusingh-54/AI-Lead-Research-Personalised-Follow-Up-Agent)**: researches an inbound lead on the public web, reasons against what it found, and drafts a follow-up with sources attached. There is no send path anywhere in the code, by design. <br/>`Python` `Pydantic` `Tavily` `OpenAI / Anthropic`
 - **[Logos AI](https://github.com/ayusingh-54/Logos-AI)** · [live ↗](https://logos-ai-theta.vercel.app): a Scripture-grounded assistant on a 9-node LangGraph pipeline with moderation, intent classification, grounding and two-stage output validation. <br/>`Next.js` `LangGraph` `OpenAI`
 - **[Meta Ads Audit skill](https://github.com/ayusingh-54/Meta-Ads-Meta-Paid-Advertising-Audit-Optimization.)**: a Claude Code skill that audits Meta ad accounts with 130+ weighted checks, parallel agents and PDF reports. <br/>`Claude Code` `Agent Skills`
-- **[HiLo Learning Hub](https://github.com/ayusingh-54/HILO-APP-)** · [live ↗](https://hilo-app-two.vercel.app): an installable PWA for training HiLo MRM staff, with topics and ordered video lessons. <br/>`TypeScript` `PWA`
 
 <details>
 <summary><b>Earlier ML, RAG and data projects</b></summary>
