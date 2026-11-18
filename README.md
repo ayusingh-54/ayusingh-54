@@ -19,7 +19,6 @@ and **pipelines** that run on their own. I also write about how they work.
 [![Portfolio](https://img.shields.io/badge/Portfolio-070a12?style=for-the-badge&logo=vercel&logoColor=ffb547)](https://minimal-portfolio-ebon-ten.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-070a12?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmYjU0NyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/ayush-singh54/)
 [![Email](https://img.shields.io/badge/Email-070a12?style=for-the-badge&logo=gmail&logoColor=ffb547)](mailto:ayusingh693@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-070a12?style=for-the-badge&logo=leetcode&logoColor=ffb547)](https://leetcode.com/u/ayusingh54/)
 
 </div>
 
